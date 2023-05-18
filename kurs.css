@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+}
+
+.text1 {
+    margin-right: 40px;
+}
+
+.header_text {
+    display: flex;
+    margin-left: 880px;
+    padding-top: 40px;
+    font-weight: 500;
+    font-size: 16px;
+    height: 20px;
+}
+
+.text1:hover, .text2:hover {
+    border-bottom: 2px dotted #FA9F42;
+    text-decoration: none;
+}
+
+.logo {
+    padding-top: 20px;
+    margin-left: 166px;
+}
+
+.text10 {
+    display: flex;
+}
+
+.xt {
+    margin-left: 80px;
+    padding-top: 40px;
+    font-weight: 500;
+    font-size: 16px;
+    height: 20px;
+}
+
+.centr {
+    text-align: center
+}
+
+.centrtext {
+    width: 1350px;
+    height: 140px;
+    font-weight: 0;
+    margin-left: 135px;
+    margin-top: 48px;
+    font-weight: 200px;
+    font-size: 58px;
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.kart {
+    height:550px;
+    margin-left: 45px;
+   margin-top: 68px;
+   align-items: center ;
+}
+
+.glavaa{
+    margin-left: 170px ;
+}
+
+.txt {
+    margin-left: 170px;
+}
